@@ -6,7 +6,7 @@ namespace ChainExample
     {
         static void Main(string[] args)
         {
-            int numSamples = 10000; // Number of samples to generate
+            int numSamples = 100000; // Number of samples to generate
             double mean = 0.0; // Mean of the Gaussian distribution
             double stdDev = 1.0; // Standard deviation of the Gaussian distribution
 
